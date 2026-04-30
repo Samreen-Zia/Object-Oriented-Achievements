@@ -41,4 +41,9 @@ A practical implementation focusing on resource sharing and global data tracking
 *   **OO Principles:** Abstraction, Multi-level Inheritance, Pure Virtual Functions, and Encapsulation.
 *   **Design Skills:** UML Class Diagrams, Activity Diagrams, and System Architecture.
 *   **Tools:** Microsoft Visual Studio, Dev C++, UML Modeling software.
-  **Developer:** Samreen Zia  **Academic Year:**  Semester 2A  **Department:** Software Engineering, Fatima Jinnah Women University
+ ---
+## 👤 Developer Profile
+**Name:** Samreen Zia  
+**Academic Level:** Semester 2nd
+**Department:** Software Engineering
+**Institution:** Fatima Jinnah Women University (FJWU)
