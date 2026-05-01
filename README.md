@@ -1,6 +1,6 @@
 # Object-Oriented-Achievements 🚀
 
-This repository is a dedicated showcase of my technical milestones in **Object-Oriented Programming (C++)** at Fatima Jinnah Women University (FJWU). It documents the evolution from mastering basic syntax to architecting complex, real-world simulations.
+This repository is a dedicated showcase of my technical milestones in **Object-Oriented Programming (C++)** **from Semester 2** at **Fatima Jinnah Women University (FJWU)**. It documents the evolution from mastering basic syntax to architecting complex, real-world simulations.
 
 ---
 
